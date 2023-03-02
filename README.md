@@ -8,7 +8,6 @@ Este projeto tem como finalidade converter registros de vendas de um **arquivo.t
 + Python 3.11.0
 + Django
 + Django Rest Framework 
-+ Pandas 
 + SQLite3
 + HTML
 
